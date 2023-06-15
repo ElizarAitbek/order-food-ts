@@ -11,7 +11,7 @@
 
 📌 save deps in devDeps
 
-- material ui (without emotion, mui main package is enough)
+- material ui 
 - rtk and react-redux
   (if there is `Cannot find module` error, just restart the localhost with `npm run start`)
 - react router dom
